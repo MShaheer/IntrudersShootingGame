@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RGBA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hero.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pixMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="collisionListeners.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bomb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wav.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="bg3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ubit.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bg1ubit3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="animspritefinal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\intruders assets\sprites\enemynew.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="cloudspink2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bg22.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bird1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bird2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ball01.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\..\..\Desktop\intruders assets\cloudsnew.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="enemynew2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bgcloudss.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="modernsold.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="G:\enemynew22.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="G:\mainscreen.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="bomb.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="tank1.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="tank2.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="..\..\..\..\..\..\Downloads\tankcut.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="G:\music for intruders\ToughGuy.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="..\..\..\..\..\..\Downloads\game_face.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+</Project>

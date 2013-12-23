@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "intruders", "intruders\intruders.vcxproj", "{3C8D93C7-942B-4164-99CD-1911E8D50BAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{710A6CAA-8A09-4740-A094-32818E45E8DB}"
+	ProjectSection(SolutionItems) = preProject
+		intruders\tank driving 2l.bmp = intruders\tank driving 2l.bmp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C8D93C7-942B-4164-99CD-1911E8D50BAB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C8D93C7-942B-4164-99CD-1911E8D50BAB}.Debug|Win32.Build.0 = Debug|Win32
+		{3C8D93C7-942B-4164-99CD-1911E8D50BAB}.Release|Win32.ActiveCfg = Release|Win32
+		{3C8D93C7-942B-4164-99CD-1911E8D50BAB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
